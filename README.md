@@ -7,6 +7,7 @@
     <h2>💾 Sobre mim 👨🏻‍💻</h2>
     
    <img src="img/LucasDev.png" width="250" align="right"/>
+   <br><br><br>
   <p>
   Sou desenvolvedor Full Stack com foco em Backend, trabalhando com <b>Node.js, TypeScript e NestJS</b>.
   </p>
