@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=36BCF7FF&text=Lucas%20Dias&reversal=false&section=header&rotate=0&animation=fadeIn&descAlignY=50&descAlign=50&desc=Desenvolvedor%20Fullstack&fontAlignY=30&fontAlign=50&fontColor=FFFFFF)
 
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <div style="flex: 1;">
     <h2>💾 Sobre mim 👨🏻‍💻</h2>
