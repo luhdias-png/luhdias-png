@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=36BCF7FF&text=Lucas%20Dias&reversal=false&section=header&rotate=0&animation=fadeIn&descAlignY=50&descAlign=50&desc=Desenvolvedor%20Fullstack&fontAlignY=30&fontAlign=50&fontColor=FFFFFF)
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Hello+World!;Sou+Andr%C3%A9+Lucas.;Desenvolvedor+Fullstack." alt="Typing SVG" /></a>
+</div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
+<div>
   <div style="flex: 1;">
     <h2>💾 Sobre mim 👨🏻‍💻</h2>
     
@@ -18,6 +21,7 @@
     <li>Estrutura em camadas (Controller, Service, Repository)</li>
     <li>Validação de dados</li>
     <li>Integração com banco de dados relacionais</li>
+    <li>Seguranca</li>
   </ul>
   <p>
   Iniciei minha jornada com <b>Python</b>, onde desenvolvi minha base em lógica de programação, e atualmente estou focado em construir aplicações mais próximas de cenários reais.
