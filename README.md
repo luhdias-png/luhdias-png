@@ -6,6 +6,7 @@
   <div style="flex: 1;">
     <h2>💾 Sobre mim 👨🏻‍💻</h2>
     
+   <img src="img/LucasDev.png" width="250" align="right"/>
   <p>
   Sou desenvolvedor Full Stack com foco em Backend, trabalhando com <b>Node.js, TypeScript e NestJS</b>.
   </p>
@@ -22,7 +23,6 @@
   </p>
   </div>
   <div>
-    <img src="img/LucasDev.png" width="250"/>
   </div>
 
 </div>
