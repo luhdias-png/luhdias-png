@@ -1,7 +1,8 @@
-Hi 👋, I'm André Lucas
+# Hi 👋, I'm André Lucas
+
 "Crafting scalable solutions and intuitive interfaces — Full Stack Developer in training 🚀"
 
-Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,django,react,nodejs,nestjs,postgres,git" />
@@ -9,18 +10,18 @@ Languages and Tools:
 </p>
 
 #### About Me 🚀
-👨‍💻 Currently specializing in JavaScript and TypeScript ecosystems[cite: 1].
-⚙️ Using AI as a productivity tool to optimize logic and workflows[cite: 1].
-🤝 Committed to teamwork and clear, human-centric communication[cite: 1].
+- 👨💻 Currently specializing in JavaScript and TypeScript ecosystems[cite: 1].
+- ⚙️ Using AI as a productivity tool to optimize logic and workflows[cite: 1].
+- 🤝 Committed to teamwork and clear, human-centric communication[cite: 1].
 
-Interests
-📚 Passionate about reading, from technical documentation to literature[cite: 1].
-🏃 Constantly seeking professional growth and new web development challenges[cite: 1].
+### Interests
+- 📚 Passionate about reading, from technical documentation to literature[cite: 1].
+- 🏃 Constantly seeking professional growth and new web development challenges[cite: 1].
 
-Let's Code Together!
+### Let's Code Together!
 Excited about the endless possibilities of technology. Let's build something amazing! 🌟[cite: 1]
 
-Connect with me:
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/andre-lucas-dias-lima/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -30,7 +31,7 @@ Connect with me:
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats - Tokyo Night</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <table align="center">
 <tr>
 <td>
